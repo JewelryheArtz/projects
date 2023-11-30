@@ -473,3 +473,10 @@ button:hover {
   top: 40px;
   left: 450px;
 }
+
+.titlehead2 {
+  font-family: Georgia;
+  font-size: 90px;
+  position: relative;
+  top: 0px
+}
